@@ -24,6 +24,35 @@ p, ul, li {
     font-size: 16px;
 }
 
+/*Fonts*/
+.lora {
+    font-family: 'Lora', serif;
+}
+
+.lobster-two {
+    font-family: 'Lobster Two', sans-serif;
+}
+
+.source-sans-3 {
+    font-family: 'Source Sans 3', sans-serif;
+}
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
 /* Header section */
 
 
